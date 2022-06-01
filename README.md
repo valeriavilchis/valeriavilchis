@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Hi friends developers, I´m Valeria...! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
+  <h1> Hi friends developers, I´m Valeria..✌🏼</h1>
 </div>
 
 <div>
@@ -22,7 +22,7 @@
   - ⚡ What I like to do: **I like so much the music, running and to cook...and coding of course**
   
   <div align="center">
-    <h3 aling="center"> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h3>
+    <h3 aling="center">📄 Skills 💻</h3>
     <img width ='32px' src ='https://www.vectorlogo.zone/logos/python/python-icon.svg'> 
     <img width ='32px' src ='https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg'> 
     <img width ='32px' src ='https://www.vectorlogo.zone/logos/php/php-icon.svg'> 
