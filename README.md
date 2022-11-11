@@ -4,19 +4,19 @@ data = {
         "names": "Cynthia Valeria",
         "lastname": "Sánchez Vilchis",
         "gender_age": ["female", 28],
-        "country_city": ["México","Ciudad de México"]
+        "country": "México City"
     },
     "education": {
         "university": {
-            "institution": ["Universidad de Guanajuato","Universidad Iberoamericana Ciudad de México"],
-            "degree": ["Ingeniería","Tecnicatura"],
-            "name": ["Sistemas Computacionales","Desarrollo de Software"],
+            "institution": ["University of Guanajuato","Ibero-American University Mexico City"],
+            "degree": ["Engineering","Technical"],
+            "name": ["Computer Systems","Software Development"],
             "status": ["active","completed"]
         },
         "courses": {
             "institution": ["Museo Interactivo de Economía","Laboratoria"],
             "deegree": ["Diplomado","Bootcamp"],
-            "name": ["Matemáticas y Estadística","Desarrollo Front-End"],
+            "name": ["Mathematics and Statistics","Front-End Development"],
             "status": ["completed","completed"]
         }
     },
@@ -27,7 +27,6 @@ data = {
     "hobbies": ["music","study","family","art"]
 }
 ```
-  
   <p align="right">Social networks of contact:</p>
   <p align="right">
     <a href="https://www.linkedin.com/in/vale-vilchis11/" target="blank"><img align="center"
