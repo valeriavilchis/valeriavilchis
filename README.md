@@ -1,5 +1,5 @@
 ```json
-data = {
+{
     "title": "Jr. Data Engineer",
     "personal": {
         "names": "Cynthia Valeria",
