@@ -1,5 +1,6 @@
-```python
+```json
 data = {
+    "title": "Jr. Data Engineer",
     "personal": {
         "names": "Cynthia Valeria",
         "lastname": "Sánchez Vilchis",
@@ -20,11 +21,12 @@ data = {
             "status": ["completed","completed"]
         }
     },
-    "interests": {
-        "technology": ["web scrapping", "machine learning", "big data", "deep learning"],
-        "art": ["data visualization"]
+    "skills":{
+        "programming_lenguages": ["Javascript", "Python", "R"],
+        "microsoft_office": ["Microsoft 365", "Power BI"],
+        "operating_system": ["Windows", "Ubuntu", "macOS"]
     },
-    "hobbies": ["music","study","family","art"]
+    "interests": ["Big Data", "Data Engineering", "Web Scrapping", "Data Visualization", "Machine Learning"]
 }
 ```
   <p align="right">Social networks of contact:</p>
