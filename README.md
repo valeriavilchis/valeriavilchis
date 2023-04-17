@@ -31,7 +31,7 @@
 ```
   <p align="right">Social networks of contact:</p>
   <p align="right">
-    <a href="https://www.linkedin.com/in/vale-vilchis11/" target="blank"><img align="center"
+    <a href="https://mx.linkedin.com/in/vale-vilchis?trk=people-guest_people_search-card" target="blank"><img align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
         alt="adam pithewan" height="30" width="40" /></a>
     <a href="https://www.instagram.com/_valeriavilchis_" target="blank"><img align="center"
