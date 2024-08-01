@@ -1,6 +1,6 @@
 ```json
 {
-    "title": "Jr. Data Engineer",
+    "title": "Data Engineer",
     "personal": {
         "names": "Cynthia Valeria",
         "lastname": "Sánchez Vilchis",
