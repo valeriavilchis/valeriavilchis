@@ -4,7 +4,7 @@
     "personal": {
         "names": "Cynthia Valeria",
         "lastname": "Sánchez Vilchis",
-        "gender_age": ["female", 29],
+        "gender_age": ["female", 30],
         "country": "México City"
     },
     "education": {
